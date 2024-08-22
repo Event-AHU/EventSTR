@@ -17,13 +17,13 @@
 提取码：2l7c 
 ```
 
-### :hammer: Environment Coonfiguration 
+### :hammer: Environment Configuration 
 
 
-### Training & Testing 
+### :hammer: Training & Testing 
 
 
-### Test FLOPs, and Speed 
+### :hammer: Test FLOPs, and Speed 
 
 
 ### :cupid: Acknowledgement 
