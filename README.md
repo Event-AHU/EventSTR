@@ -1,4 +1,4 @@
-## EventOCR_Benchmark
+## EventOCR
 
 
 
