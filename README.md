@@ -35,7 +35,6 @@
 If you find this work helps your research, please star this GitHub and cite the following papers: 
 ```bibtex
 
-
 ```
 
 If you have any questions about these works, please feel free to leave an issue. 
@@ -43,12 +42,3 @@ If you have any questions about these works, please feel free to leave an issue.
 
 
 ### Star History
-
-<a href="https://star-history.com/#Event-AHU/EventVOT_Benchmark&Date">
- <picture>
-   <source media="(prefers-color-scheme: dark)" srcset="https://api.star-history.com/svg?repos=Event-AHU/EventVOT_Benchmark&type=Date&theme=dark" />
-   <source media="(prefers-color-scheme: light)" srcset="https://api.star-history.com/svg?repos=Event-AHU/EventVOT_Benchmark&type=Date" />
-   <img alt="Star History Chart" src="https://api.star-history.com/svg?repos=Event-AHU/EventVOT_Benchmark&type=Date" />
- </picture>
-</a>
-
