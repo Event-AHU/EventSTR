@@ -29,6 +29,10 @@ git clone https://github.com/Event-AHU/EventSTR
 cd EventSTR
 pip install -e .
 ```
+
+### :hammer: Prepare Weight 
+
+
 ### :hammer: Training & Testing 
 Training
 ```
