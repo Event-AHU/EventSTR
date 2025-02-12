@@ -30,7 +30,14 @@ cd EventSTR
 pip install -e .
 ```
 ### :hammer: Training & Testing 
-
+Training
+```
+bash SimC-ESTR.sh
+```
+Testing
+```
+python test_bleu.py
+```
 
 ### :hammer: Test FLOPs, and Speed 
 
