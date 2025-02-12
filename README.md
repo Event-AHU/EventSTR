@@ -18,13 +18,14 @@
 ```
 
 ### :hammer: Environment Configuration 
+```
 conda create -n bliva python=3.9
 conda activate bliva
 
 git clone https://github.com/Event-AHU/EventSTR
 cd EventSTR
 pip install -e .
-
+```
 ### :hammer: Training & Testing 
 
 
