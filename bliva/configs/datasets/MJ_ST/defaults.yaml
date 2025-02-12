@@ -1,0 +1,10 @@
+datasets:
+  eventocr:
+    data_type: images
+    build_info:
+      storage: bliva/data/IC15
+      vis_root: bliva/data/IC15/train
+      csv_root: /rydata/dataset/eventocr_csv
+      lmdb_paths:
+      - /wangx/OCR_baseline/parseq/data/train/synth/ST
+      - /wangx/OCR_baseline/parseq/data/train/synth/MJ/train
