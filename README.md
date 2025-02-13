@@ -58,9 +58,6 @@ Testing
 python test_bleu.py
 ```
 
-### :hammer: Test FLOPs, and Speed 
-
-
 ### :cupid: Acknowledgement 
 
 
