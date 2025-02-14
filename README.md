@@ -1,7 +1,7 @@
 ## EventOCR
 
-* **EventSTR: A Benchmark Dataset and Baselines for Event Stream based Scene Text Recognition**, Xiao Wang, Jingtao Jiang, Dong Li, Futian Wang, Lin Zhu, Yaowei Wang, Yongyong Tian, Jin Tang, arXiv Paper
-  [[arXiv]()]
+* [arXiv:2502.09020] **EventSTR: A Benchmark Dataset and Baselines for Event Stream based Scene Text Recognition**, Xiao Wang, Jingtao Jiang, Dong Li, Futian Wang, Lin Zhu, Yaowei Wang, Yongyong Tian, Jin Tang, arXiv Paper
+  [[arXiv](https://arxiv.org/abs/2502.09020)]
 
 
 ### Abstract 
@@ -10,12 +10,11 @@ Mainstream Scene Text Recognition (STR) algorithms are developed based on RGB ca
 
 
 ### Surveys and Reviews 
-
 * [[https://github.com/Event-AHU/OCR_Paper_List](https://github.com/Event-AHU/OCR_Paper_List)] 
 
 
 ### :collision: Update Log 
-* :fire: [2025-01-24] *****  
+* :fire: [2025-02-24] arXiv paper and source code is released [[arXiv:2502.09020](https://arxiv.org/abs/2502.09020)]  
 
 
 ### :dvd:  Dataset Download 
@@ -31,12 +30,13 @@ https://www.dropbox.com/scl/fo/s31llbv7bshz2xj4mf2gm/AFP1AGDcSoY0mk-fcyfL7jw?rlk
 ```
 
 ### :hammer: Environment Configuration 
-1.Creating conda environment
+1. Creating conda environment
 ```
 conda create -n bliva python=3.9
 conda activate bliva
 ```
-2.build from source
+
+2. Build from source
 ```
 git clone https://github.com/Event-AHU/EventSTR
 cd EventSTR
@@ -48,18 +48,18 @@ Our Vicuna version model is released at [here](https://huggingface.co/mlpc-lab/B
 
 The LLM we used is the v0.1 version from Vicuna-7B. To prepare Vicuna's weight, please refer to our instruction [here](https://github.com/mlpc-ucsd/BLIVA/blob/main/PrepareVicuna.md). Then, set the path to the vicuna weight in the model config file [here](https://github.com/Event-AHU/EventSTR/blob/384d37bececfc166d32d40c6fcd0ce64e1e16573/bliva/configs/models/bliva_vicuna7b.yaml#L21) at Line 21.
 
+
+
 ### :hammer: Training & Testing 
-Training
+**Training**
 ```
 bash SimC-ESTR.sh
 ```
-Testing
+
+**Testing**
 ```
 python test_bleu.py
 ```
-
-### :cupid: Acknowledgement 
-
 
 
 
@@ -78,7 +78,3 @@ If you find this work helps your research, please **star** this GitHub and cite 
 ```
 
 If you have any questions about these works, please feel free to leave an issue. 
-
-
-
-### Star History
