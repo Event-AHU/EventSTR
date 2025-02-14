@@ -64,9 +64,17 @@ python test_bleu.py
 
 
 ### :newspaper: Citation 
-If you find this work helps your research, please star this GitHub and cite the following papers: 
+If you find this work helps your research, please **star** this GitHub and cite the following papers: 
 ```bibtex
-
+@misc{wang2025EventSTR,
+      title={EventSTR: A Benchmark Dataset and Baselines for Event Stream based Scene Text Recognition}, 
+      author={Xiao Wang and Jingtao Jiang and Dong Li and Futian Wang and Lin Zhu and Yaowei Wang and Yongyong Tian and Jin Tang},
+      year={2025},
+      eprint={2502.09020},
+      archivePrefix={arXiv},
+      primaryClass={cs.CV},
+      url={https://arxiv.org/abs/2502.09020}, 
+}
 ```
 
 If you have any questions about these works, please feel free to leave an issue. 
