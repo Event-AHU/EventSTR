@@ -2,7 +2,7 @@
 
 <div align="center">
 
-<img src="https://github.com/Event-AHU/EventSTR/blob/main/motivation.png" width="400">
+<img src="https://github.com/Event-AHU/EventSTR/blob/main/motivation.png" width="600">
 
 [arXiv:2502.09020] **EventSTR: A Benchmark Dataset and Baselines for Event Stream based Scene Text Recognition**, Xiao Wang, Jingtao Jiang, Dong Li, Futian Wang, Lin Zhu, Yaowei Wang, Yongyong Tian, Jin Tang, arXiv Paper
   [[arXiv](https://arxiv.org/abs/2502.09020)]
