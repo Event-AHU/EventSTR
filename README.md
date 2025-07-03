@@ -39,7 +39,7 @@ Mainstream Scene Text Recognition (STR) algorithms are developed based on RGB ca
 * **Download from Baidu Drive:**
 ```
 data：https://pan.baidu.com/s/1XN8MfK1cKrqaSOo3e2oD3A?pwd=2l7c     Code：2l7c
-label: https://pan.baidu.com/s/1DimF5azSIv8kRlSo7Xr6DA?pwd=3288   Code: 3288
+label: https://pan.baidu.com/s/1zb8EcTya1AMcmr6hm72GWg?pwd=u3kc Code: u3kc
 ```
 
 * **Download from DropBox:** 
